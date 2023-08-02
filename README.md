@@ -9,3 +9,5 @@ This is my first level design on a 3D platformer. It's a short game with the fol
 - Respawn
 - Trampoline
 - TP
+
+![Alt Text](thumbnail.png)
